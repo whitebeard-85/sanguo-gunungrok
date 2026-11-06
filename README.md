@@ -8,8 +8,8 @@
 
 | 기기 | 파일 |
 |---|---|
-| PC (Windows 10 / 11) | `sanguo-gunungrok-1.0-windows.zip` |
-| 안드로이드 (5.0 이상) | `sanguo-gunungrok-1.0-android.apk` |
+| PC (Windows 10 / 11) | `sanguo-gunungrok-1.0.1-windows.zip` |
+| 안드로이드 (5.0 이상) | `sanguo-gunungrok-1.0.1-android.apk` |
 
 ## 설치
 
